@@ -6,7 +6,7 @@
 }
 body{
     color:bisque;
-    background: black;
+    background-image: url(bg.jpg);
     overflow: hidden;
 }
 .header{
